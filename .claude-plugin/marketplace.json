@@ -1,0 +1,20 @@
+{
+  "name": "claude-tutor",
+  "owner": {
+    "name": "Zach Geleott",
+    "url": "https://zachdoesai.com"
+  },
+  "metadata": {
+    "description": "A personal teaching team in one skill pack. Free, MIT.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-tutor",
+      "source": "./",
+      "description": "8 Claude skills that teach you any topic: level check, live research, fact check, a mini course built for you, one-on-one lessons, a final exam and spaced reviews.",
+      "version": "0.1.0",
+      "category": "education"
+    }
+  ]
+}

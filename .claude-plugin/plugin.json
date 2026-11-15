@@ -1,0 +1,22 @@
+{
+  "name": "claude-tutor",
+  "version": "0.1.0",
+  "description": "A personal teaching team in one skill pack. Type /tutor and a topic: it checks your level, researches the topic live, fact-checks it, builds a mini course you can finish in an afternoon, teaches it, tests you and schedules reviews so it sticks. Built on published learning science.",
+  "author": {
+    "name": "Zach Geleott",
+    "url": "https://zachdoesai.com"
+  },
+  "homepage": "https://github.com/TakeOff-Team/claude-tutor",
+  "repository": "https://github.com/TakeOff-Team/claude-tutor",
+  "license": "MIT",
+  "keywords": [
+    "tutor",
+    "learning",
+    "course",
+    "education",
+    "research",
+    "fact-check",
+    "spaced-repetition",
+    "retrieval-practice"
+  ]
+}
